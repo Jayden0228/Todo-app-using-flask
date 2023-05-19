@@ -40,7 +40,7 @@ The project directory contains the following main files and directories:
 - Delete a Todo: To delete a todo, click the "Delete" button next to the todo you want to remove.
 - Filter Todos: Enter a substring in the filter input field at the top of the homepage. The list of todos will be filtered based on the entered substring.
 
-You can also access the live demo of the app at [http://jaydenviegas.pythonanywhere.com/search](http://jaydenviegas.pythonanywhere.com/search).
+You can also access the live demo of the app at [http://jaydenviegas.pythonanywhere.com](http://jaydenviegas.pythonanywhere.com).
 
 ## License
 
